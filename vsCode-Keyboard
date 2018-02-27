@@ -1,0 +1,12 @@
+[
+    {
+        "key": "ctrl+`",
+        "command": "workbench.action.terminal.focus"
+    }
+]
+
+"vim.useCtrlKeys": false,
+"editor.formatOnPaste": true,
+"editor.formatOnSave": true,
+"terminal.external.windowsExec": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+"vim.cmdLineInitialColon": true
